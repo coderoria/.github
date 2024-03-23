@@ -6,6 +6,5 @@ Most of our software is made to fit the needs of an individual creator. That's w
 
 # 📹 Creators we work with
 [![Twitch Status](https://img.shields.io/twitch/status/jamienichtjames?label=jamienichtjames&logo=twitch&logoColor=white&style=for-the-badge)](//twitch.tv/jamienichtjames)
-[![Twitch Status](https://img.shields.io/twitch/status/xlandaro?label=xLandaro&logo=twitch&logoColor=white&style=for-the-badge)](//twitch.tv/xlandaro)
+[![Twitch Status](https://img.shields.io/twitch/status/jonsman?label=jonsman&logo=twitch&logoColor=white&style=for-the-badge)](//twitch.tv/jonsman)
 [![Twitch Status](https://img.shields.io/twitch/status/strike?label=Strike&logo=twitch&logoColor=white&style=for-the-badge)](//twitch.tv/strike)
-[![Twitch Status](https://img.shields.io/twitch/status/burdel?label=Burdel&logo=twitch&logoColor=white&style=for-the-badge)](//twitch.tv/burdel)
